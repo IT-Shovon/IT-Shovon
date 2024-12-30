@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shovon! 👋
 
-<!--
-**IT-Shovon/IT-Shovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **IT professional** with over 3 years of experience specializing in:
+- ERP systems and database management  
+- IT infrastructure management  
+- Network security and system troubleshooting  
+- Project management and process optimization  
 
-Here are some ideas to get you started:
+I enjoy solving technical challenges and working on projects that improve operational efficiency. I'm passionate about leveraging technology to drive innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **Email**: mdshovongazi123@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shovongazi/)
