@@ -1,4 +1,4 @@
-## Welcome to My IT Portfolio!
+## Welcome to My Portfolio!
 
 I'm **Shovon**, an IT professional with over 3 years of experience specializing in:
 - ERP systems implementation and management
